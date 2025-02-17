@@ -1,0 +1,14 @@
+[server]
+headless = true
+port = 8505  # Porta do servidor de producoes
+enableCORS = false
+
+[theme]
+primaryColor = "#FFD700"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#262730"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false 
